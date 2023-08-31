@@ -5,7 +5,7 @@
 ### Department of Computer Science, University of Ghana 
 
 #### DCIT316: Computational Models for Social Media Mining 
-![reddit](reddit.png)
+![reddit](/reddit.png)
 
 Reddit, a social media platform with over 1.660 billion monthly active users and more than
 130,000 subreddits, serves as a massive repository of user-generated content. While this large
