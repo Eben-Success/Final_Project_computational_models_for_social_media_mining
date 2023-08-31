@@ -29,7 +29,7 @@ thereby creating more opportunities for advertising and monetization. Overall, t
 a comprehensive approach to understanding user behavior on Reddit and offers a scalable
 solution for personalized content recommendation.
 
-# About the Dataset
+# About the [Dataset](https://www.kaggle.com/datasets/mswarbrickjones/reddit-selfposts)
 
 About Dataset: The Reddit Self-Post Classification Task (RSPCT) dataset was used for this project. This dataset involves classifying self-posts into their corresponding subreddits. The dataset comprises 1.013 million self-posts from 1013 subreddits, with 1000 examples per subreddit class. Efforts were made to minimize content overlap by carefully selecting a diverse set of subreddits. Additionally, there is manual annotation data for around 3000 subreddits that contributed to dataset creation, including category, subcategory, and reasons for exclusion if applicable. Detailed information about the dataset can be found using this [Link](https://www.kaggle.com/datasets/mswarbrickjones/reddit-selfposts)
 
