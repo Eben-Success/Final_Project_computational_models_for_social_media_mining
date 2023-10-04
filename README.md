@@ -7,6 +7,7 @@
 #### DCIT316: Computational Models for Social Media Mining 
 ![reddit](/reddit.png)
 
+
 Reddit, a social media platform with over 1.660 billion monthly active users and more than
 130,000 subreddits, serves as a massive repository of user-generated content. While this large
 number of data offers a rich variety of topics, it also poses a challenge for users trying to find
